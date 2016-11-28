@@ -39,7 +39,7 @@ Responsible for preparing lectures, writing and marking exams.
 
 #### Honors Colloquium 
 Baylor University, Spring 2015
-Course Description: Led a discussion for Honors College students on Uncharted: Big Data as a Lens on Human Culture. Responsible for marking essays.
+Course Description: Led a discussion for Honors College students on *Uncharted: Big Data as a Lens on Human Culture*. Responsible for marking essays.
 
 ### AP College Board Reader
 Kansas City, MO Summer 2016
