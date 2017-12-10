@@ -1,6 +1,8 @@
+
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: About
+permalink: /about/
 ---
+
+I am a postgraduate student at the University of Warwick studying bespoke causal algebras of dynamic systems under the guidance of Jim Smith. 
