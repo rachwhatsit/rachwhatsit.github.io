@@ -6,7 +6,7 @@ permalink: /contact/
 
 I am a postgraduate student at the University of Warwick studying bespoke causal algebras of dynamic systems under the guidance of Jim Smith. 
 
-test
+
 University of Warwick    
 Department of Statistics  
 Zeeman Building   
