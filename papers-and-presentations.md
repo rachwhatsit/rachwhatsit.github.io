@@ -8,6 +8,7 @@ permalink: /papers-presentations/
 
 ### Journal Articles
 R. Wilkerson, D. Khalfe, K. Krey *Associations Between Neighborhoods and Summer Meal Sites: Measuring Access to Federal Summer Meals Programs* 2015. Journal of Applied Research on Children. Vol. 6:2. 
+Featured in [Atlantic's City Lab](https://www.citylab.com/equity/2016/06/where-travel-is-a-barrier-food-trucks-roll-in-to-feed-kids/487208/)
 
 M. Shetrone, R. Wilkerson, S. Martell et. al. *Light-element abundance variations and low metallicity: the globular cluster NGC 5466 2010*, The Astronomical Journal 140 1119 
 
@@ -18,7 +19,9 @@ R. Wilkerson, L. English, K. Krey *The Complex Challenges to Participation in Fe
 Wilkerson, R. L. (2016), *Hungry for data*. Significance, 13: 28-31. 
 
 
-## Presentations
+## Selected Presentations
+
+University College London, January 2018.
 
 Bayesian Diagnostics for the Chain Event Graph. O'Bayes Conference. University of Texas at Austin, December 2017. 
 
