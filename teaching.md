@@ -4,17 +4,29 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### University of Warwick 
+
+#### [Statistics 221](https://warwick.ac.uk/fac/sci/statistics/modules/st2/st221/): Linear Statistical Modeling (Term II, Term III) 
+Supervised practical tutorials and responsible for marking
+
+#### [Statistics 208](https://warwick.ac.uk/fac/sci/statistics/modules/st2/st208/): Mathematical Methods (Term I) 
+Held tutorials and was responsible for marking
+
+#### [Statistics 111/2](https://warwick.ac.uk/fac/sci/statistics/modules/st1/st111/): Probability A & B (Term II)
+Held tutorials and was responsible for marking.
+
+
 ### Springboard Mentor 
 
-#### Foundations of Data Science
+#### [Foundations of Data Science](https://www.springboard.com/workshops/data-science)
 Spring 2016-present
 Mentoring students as they learn R and data science skills. I offer career guidance and feedback on project submissions. 
 
-#### Data Analytics for Business 
+#### [Data Analytics for Business](https://www.springboard.com/workshops/analytics) 
 Summer 2016-present
 Mentoring students through case studies, teaching real world business applications through Excel, SQL, and Tableau.
 
-### Economics 
+### Baylor University 
  
 #### ECO4V98/5V98: Data Analytics
 Spring 2014, Fall 2014
@@ -25,8 +37,6 @@ The general aim of this course is to build intuition around data analysis so tha
 
 Responsible for preparing course curriculum, delivering lectures, writing and evaluating exams and assignments.
 
-### Mathematics 
-
 #### MTH 1321: Calculus I
 Baylor University, Fall 2014
 Responsible for preparing lectures, writing and marking exams.
@@ -34,8 +44,6 @@ Responsible for preparing lectures, writing and marking exams.
 #### MTH 1322: Calculus II
 Baylor University, Spring 2015
 Responsible for preparing lectures, writing and marking exams.
-
-### Humanities
 
 #### Honors Colloquium 
 Baylor University, Spring 2015
