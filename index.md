@@ -1,12 +1,7 @@
 
----
-layout: home
-title: Home
-permalink: /home/
----
 
 
-![canyons](/assets/closed-canyon.svg)
+![canyons](/assets/closed-canyon.jpg)
 
 
 
