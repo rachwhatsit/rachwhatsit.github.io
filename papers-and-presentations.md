@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers and Presentations 
-permalink: /papers-presentations/
+title: Research 
+permalink: /research/
 ---
 
 ## Publications
