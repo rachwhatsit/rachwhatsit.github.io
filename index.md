@@ -1,7 +1,7 @@
 
 
 
-![canyons](/assets/closed-canyon.jpg)
+![canyons](/assets/closedcanyon.jpg)
 
 
 
