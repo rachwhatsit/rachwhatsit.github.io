@@ -16,22 +16,25 @@ M. Shetrone, R. Wilkerson, S. Martell et. al. *Light-element abundance variation
 R. Wilkerson, L. English, K. Krey *The Complex Challenges to Participation in Federal Nutrition Programs in preparation* for  *Food and Poverty: Food Insecurity and Food Sovereignty among America's Poor* edited by L. Hossfeld et al. Forthcoming Fall 2018.  
 
 ### Articles
+
+Barons, M.J.and Wilkerson, R.L. (2018). Proof and Uncertainty in causal claims. Exchanges: The Interdisciplinary Research Journal, 5(2). [Journal](http://exchanges.warwick.ac.uk/index.php/exchanges/article/view/238)
+
 Wilkerson, R. L. (2016), *Hungry for data*. Significance, 13: 28-31. 
 
 
 ## Selected Presentations
 
-University College London, January 2018.
+Checking the Structure of Chain Event Graphs. London Judgement and Decision Making Seminars. University College London, January 2018. ([slides](https://docs.google.com/presentation/d/1tLqII1aulLHQ5ZBctvaGKLCG2Lry-iQDVdMzlmWAkbU/edit?usp=sharing); [CEG tutorial slides](http://rpubs.com/rachwhatsit/CEGtutorial))
 
 Bayesian Diagnostics for the Chain Event Graph. O'Bayes Conference. University of Texas at Austin, December 2017. 
 
 Towards Model Based Causation. Young Researcher's Meeting. Warwick University, Octboer 2017. 
 
-Animated R Plots. R User Group. Warwick University, February 2017. 
+Animated R Plots. R User Group. Warwick University, February 2017. ([slides][http://rpubs.com/rachwhatsit/animated-plots])
 
 Aesthetic Principles for Data Visualization. Young Researcher's Meeting. Warwick University, January 2017. 
 
-Modeling Food Policy Decision Analysis with an Interactive Bayesian Network in Shiny. useR! Conference. Stanford University, June 2016.
+Modeling Food Policy Decision Analysis with an Interactive Bayesian Network in Shiny. useR! Conference. Stanford University, June 2016. ([slides](http://rpubs.com/rachwhatsit/useR2016))
 
 Using Decision Analysis to Optimize Summer Meal Options. Food Waste and Hunger Summit, University of Arkansas, April 2016
 
