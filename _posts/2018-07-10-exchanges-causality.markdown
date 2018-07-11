@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our book chapter is available for pre-order!"
+title:  "Interdisciplinary Exchanges on Causality"
 date:   2018-07-10 16:28:00 +0000
 categories: causality interdisciplinary
 ---
