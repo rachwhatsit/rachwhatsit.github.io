@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interdisciplinary Exchanges on Causality"
+title:  "Interdisciplinary exchanges on causality"
 date:   2018-07-10 16:28:00 +0000
 categories: causality interdisciplinary
 ---
