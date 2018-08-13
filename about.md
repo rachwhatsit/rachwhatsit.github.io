@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![headshot](/assets/IMG_0945.jpg | width=100)
+![headshot](/assets/IMG_0945.jpg)
 
 I am a second year statistics student studying causal algebras under the supervision of [Jim Q. Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/). I am a part of the [Leverhulme Bridges](https://warwick.ac.uk/fac/cross_fac/bridges/) programme that aims to bridge the gap between the mathematical and social sciences. My work is motivated by a long-held conviction that mathematical models should be attuned to the realities faced by practitioners outside the academy. I hope to further demonstrate how causal algebras can be customized to pertinent domain expertise.
 
